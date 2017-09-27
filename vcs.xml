@@ -10,6 +10,10 @@
           <option name="url" value="git@github.com:Rafifditya/Mobile-eefish.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:budismartcloud/eefish-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Rafif_2110151015\project dan installer" />
