@@ -1,0 +1,7 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="proxy3.eepis-its.edu" />
+    <option name="PROXY_PORT" value="443" />
+    <option name="PROXY_EXCEPTIONS" value="localhost, 127.0.0.1" />
+  </component>
+</application>
