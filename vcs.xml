@@ -30,8 +30,12 @@
           <option name="url" value="https://github.com/bryanagamk/siagaplus.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Rafifditya/HerbalLife-Refactoring.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Rafif_2110151015\Downloads\Documents\semester5\" />
+    <option name="cloneParentDir" value="D:\Rafif_2110151015\Downloads\Documents\semester6\" />
   </component>
 </application>
